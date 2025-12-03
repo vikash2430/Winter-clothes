@@ -16,5 +16,5 @@ GitHub Pages:-https://vikash2430.github.io/Winter-clothes/
 ## How to run locally
 1. Clone:
 ```bash
-git clone https://github.com/your-username/winter-clothes.git
+git clone https://vikash2430.github.io/Winter-clothes/.git
 cd winter-clothes
